@@ -1,0 +1,13 @@
+/*
+
+These are Vokseværk-specific overrides/tweaks to the Backoffice
+
+*/
+
+.umb-tree ins {
+	/* We want to keep the arrows visible at all times */
+	visibility: visible !important;
+	
+	/* Fix the misaligned icons too */
+	margin-left: -13px !important;
+}
