@@ -11,3 +11,10 @@ These are Vokseværk-specific overrides/tweaks to the Backoffice
 	/* Fix the misaligned icons too */
 	margin-left: -13px !important;
 }
+
+/* Make it easier to see unpublished nodes */
+div.not-published > i.icon,
+div.not-published > a {
+	opacity: 0.5;
+	color: #900;
+}
