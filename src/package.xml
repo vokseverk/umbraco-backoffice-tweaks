@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+	<files>
+		<file>
+			<guid>package.manifest</guid>
+			<orgPath>/App_Plugins/vokseverk.backoffice-tweaks</orgPath>
+			<orgName>package.manifest</orgName>
+		</file>
+		<file>
+			<guid>backoffice-tweaks.css</guid>
+			<orgPath>/App_Plugins/vokseverk.backoffice-tweaks</orgPath>
+			<orgName>backoffice-tweaks.css</orgName>
+		</file>
+	</files>
+	<info>
+		<package>
+			<name>Backoffice Tweaks</name>
+			<version>1.2</version>
+			<license url="http://opensource.org/licenses/MIT">MIT License</license>
+			<url>http://vokseverk.dk/</url>
+			<requirements>
+				<major>7</major>
+				<minor>0</minor>
+				<patch>0</patch>
+			</requirements>
+		</package>
+		<author>
+			<name>Vokseværk</name>
+			<website>http://vokseverk.dk/</website>
+		</author>
+		<readme><![CDATA[Backoffice Tweaks
+
+A very small set of CSS tweaks to the backoffice.
+]]></readme>
+	</info>
+	<DocumentTypes />
+	<Templates />
+	<Stylesheets />
+	<Macros />
+	<DictionaryItems />
+	<Languages />
+	<DataTypes />
+</umbPackage>
